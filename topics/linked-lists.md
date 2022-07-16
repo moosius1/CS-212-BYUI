@@ -161,4 +161,4 @@ len(exampleLinkList);
 [Codebasic's tutorial on Youtube it is Excellent](https://youtu.be/qp8u-frRAnU)
 
 
-## [Back to Welcome page](/welcome.md)
+## [Back to Welcome page](https://github.com/moosius1/CS-212-BYUI)
