@@ -23,6 +23,8 @@ Here are a couple of conceptual problems to get your brain working with trees. T
 
 [Problem File](/py%20files/treeProblem.py)
 
+[Solution File](/py%20files/treeProblemSolution.py)
+
 
 ## Operations used with Trees
 
