@@ -1,4 +1,7 @@
 # Linked Lists
+
+[Back to Welcome page](/welcome.md)
+
 You likely have previously used lists in python or other languages, so that knowledge will be very useful in understanding linked lists. If you haven't I would suggest this guide [Lists and arrays in python](https://www.w3schools.com/python/python_lists.asp)
 
 Queues, stacks, sets and map all base their storage using "contiguous" memory. This means that each item in them is set immediately after the previous item. You can think of this as a 1 by 1 increasing method. 
@@ -95,6 +98,28 @@ def replace(self, old_value, new_value):
 
 ```
 
+## Problem: 
+
+Implement the insert_head() function so that the following code runs and can be output. 
+
+
+
+example.insert_head(1)
+example.insert_head(2)
+example.insert_head(3)
+example.insert_head(4)
+
+output should appear as:
+linkedlist[1, 2, 3, 4]
+
+[Problem File](/py%20files/linkedlistproblem.py)
+
+If you are struggling to complete the problem then proceed to use the solution file
+
+[Solution File](/py%20files/linkedListSolution.py)
+
+
+
 ## Operations used with linked lists
 
 insertAtHead(value): Inserts new node at the head of the linked list. Performance O(1)
@@ -131,3 +156,6 @@ len(exampleLinkList);
 [Lists and arrays in python](https://www.w3schools.com/python/python_lists.asp)
 
 [Images found](https://kodr.me/en/linked-list-intro)
+
+
+## [Back to Welcome page](/welcome.md)

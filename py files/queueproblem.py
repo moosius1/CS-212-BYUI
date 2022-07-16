@@ -16,3 +16,7 @@ q.append("solution")
 q.pop(0)
 q.pop(0)
 print(q)
+
+# before running the code, write below what you believe would be the output. 
+
+

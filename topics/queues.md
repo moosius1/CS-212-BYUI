@@ -1,5 +1,7 @@
 # Queues
 
+[Back to Welcome page](/welcome.md)
+
 Lines. We all have been in them before. When they run properly, it makes everyone happy there is order and regulation in the world, but when they don't, people get frustrated, tired and impatient. 
 
 Queues are the savior of waiting lines. They can ensure that one set of data is specifically next in line no matter how many other people hop in line. Everything has a place in the queue. 
@@ -48,6 +50,13 @@ exampleQueue.pop(0);
 
 ```
 
+## Problem: 
+
+This is a simple test to see if you understand the basic structure of how a FIFO type queue works. 
+
+Solution is included in the file
+
+[Problem File](/py%20files/queueproblem.py)
 
 
 ## Operations used with Queues
@@ -96,3 +105,6 @@ if len(exampleQueue) == x:
 ## Images referenced can be found here:
 
 [Queue Image](https://www.section.io/engineering-education/queue-data-structure-python/)
+
+
+## [Back to Welcome page](/welcome.md)
