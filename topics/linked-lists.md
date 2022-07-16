@@ -103,13 +103,14 @@ def replace(self, old_value, new_value):
 Implement the insert_head() function so that the following code runs and can be output. 
 
 
-
+```
 example.insert_head(1)
 example.insert_head(2)
 example.insert_head(3)
 example.insert_head(4)
-
+```
 output should appear as:
+
 linkedlist[1, 2, 3, 4]
 
 [Problem File](/py%20files/linkedlistproblem.py)
