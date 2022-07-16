@@ -158,5 +158,7 @@ len(exampleLinkList);
 
 [Images found](https://kodr.me/en/linked-list-intro)
 
+[Codebasic's tutorial on Youtube it is Excellent](https://youtu.be/qp8u-frRAnU)
+
 
 ## [Back to Welcome page](/welcome.md)
