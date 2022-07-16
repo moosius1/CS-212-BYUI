@@ -1,6 +1,6 @@
 # Linked Lists
 
-[Back to Welcome page](/welcome.md)
+[Back to Welcome page](/welcomeFinal.md)
 
 You likely have previously used lists in python or other languages, so that knowledge will be very useful in understanding linked lists. If you haven't I would suggest this guide [Lists and arrays in python](https://www.w3schools.com/python/python_lists.asp)
 
