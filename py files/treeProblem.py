@@ -13,6 +13,7 @@
 
 ''' you run the following code 
 tree.delete(10)
+tree.delete(20)
 
 Please correct any issues found in Problem 1, and show any changes
 that would happen after the delete function:
