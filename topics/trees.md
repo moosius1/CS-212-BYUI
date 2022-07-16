@@ -1,6 +1,6 @@
 # Trees
 
-[Back to Welcome page](/welcome.md)
+[Back to Welcome page](https://github.com/moosius1/CS-212-BYUI)
 
 Binary search trees are akin to linked lists in python in that each item in the tree is linked to another item in the tree. These types of relationships in the tree are known as parent child relationships. These types of trees allow for indexing within a database to be accomplished at O(log n) time complexity making them a more efficient storage method than a linked list. However, in the event that the tree is a continual line with only right child elements this time complexity does go up to O(n) depending on how long the tree gets. 
 
@@ -120,4 +120,4 @@ If number > root->data
 
 [Codebasic's tutorial on Youtube it is Excellent](https://youtu.be/lFq5mYUWEBk)
 
-## [Back to Welcome page](/welcome.md)
+## [Back to Welcome page](https://github.com/moosius1/CS-212-BYUI)
