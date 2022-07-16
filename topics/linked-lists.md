@@ -12,7 +12,7 @@ These elements, known as "nodes" have the value of the element and are linked to
 
 Single Linked lists contain this structure and are only connected one way from node to node. Each node only having one pointer forward to the next node. 
 
-[Linked Lists Image](/pictures/linkedlists2.jpeg)
+![Linked Lists Image](/pictures/linkedlists2.jpeg)
 
 Double Linked Lists on the other hand are connected by two pointers on each node. One pointing forward to the next node, the other pointing backwards to the previous node. 
 
