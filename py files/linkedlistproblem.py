@@ -17,19 +17,21 @@ class LinkedList:
 
     def insert_head(self, value):
         
-        # Create the new node
-       
+       # Create the new node
+        new_node = LinkedList.Node(value)  
         
         # If the list is empty, then point both head and tail
         # to the new node.
-        
+        if self.head is None:
+            self.head = new_node
+            self.tail = new_node
         # If the list is not empty, then only self.head will be
         # affected.
-        
-        # Connect new node to the previous head
-        # Connect the previous head to the new node
-        # Update the head to point to the new node
-        return
+        else:
+            new_node.next = self.head # Connect new node to the previous head
+            self.head.prev = new_node # Connect the previous head to the new node
+            self.head = new_node      # Update the head to point to the new node
+
     
     def insert_tail(self, value):
         
@@ -127,9 +129,12 @@ class LinkedList:
 
 
 example = LinkedList()
-example.insert_tail(3)
+example.insert_head(4)
+example.insert_head(3)
 example.insert_head(2)
 example.insert_head(1)
-example.insert_tail(4)
+
+
+
 
 print(example)
