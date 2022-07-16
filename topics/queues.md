@@ -101,6 +101,9 @@ if len(exampleQueue) == x:
 
 [Python Queues](https://youtu.be/XLXWidXVRJk)
 
+## Codebasic's tutorial on Youtube it is Excellent
+[Codebasic's queues video](https://youtu.be/qp8u-frRAnU)
+
 
 ## Images referenced can be found here:
 
