@@ -19,11 +19,9 @@ In the above picture we can see that one important factor of the BST is that all
 
 ## Problem: 
 
-This is a simple test to see if you understand the basic structure of how a FIFO type queue works. 
+Here are a couple of conceptual problems to get your brain working with trees. Try to solve them to understand the principle.
 
-Solution is included in the file
-
-[Problem File](/py%20files/queueproblem.py)
+[Problem File](/py%20files/treeProblem.py)
 
 
 ## Operations used with Trees
