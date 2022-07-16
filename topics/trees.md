@@ -4,11 +4,11 @@
 
 Binary search trees are akin to linked lists in python in that each item in the tree is linked to another item in the tree. These types of relationships in the tree are known as parent child relationships. These types of trees allow for indexing within a database to be accomplished at O(log n) time complexity making them a more efficient storage method than a linked list. However, in the event that the tree is a continual line with only right child elements this time complexity does go up to O(n) depending on how long the tree gets. 
 
-[Binary Search Tree diagram](/pictures/binary_tree.jpeg)
+![Binary Search Tree diagram](/pictures/binary_tree.jpeg)
 ## Purposes and usage
 A BST (Binary Search Tree) specifically is made to do what it's name entails. To search itself for the presence of a specific value. It can do this very quickly because of it's structure being a primary parent node being either less than or greater than all following child nodes. Subsequently, each node following is divided in similar fashion. Right Child being reserved for a higher value, left for the lesser value. 
 
-[Binary Search Tree example](/pictures/bst-vs-not-bst.webp)
+![Binary Search Tree example](/pictures/bst-vs-not-bst.webp)
 
 In the above picture we can see that one important factor of the BST is that all sub trees must abide by the same rules that trees have. Being that a right child node must be greater than the sub tree root. If there are values connected to that sub tree root at the right child position that are greater than the root, this is invalid. 
 
