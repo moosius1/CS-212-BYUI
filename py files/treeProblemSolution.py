@@ -47,12 +47,13 @@ that would happen after the delete function:
 
                     12
                  /      \
-               5         15
-              / \       /   
-            4     8    13    
+               11         15
+              /  \       /   
+            5     8    13    
            /                
-         3                 
-                         
+         4
+        /
+       3                  
                          
 
 '''
