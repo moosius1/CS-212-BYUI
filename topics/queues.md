@@ -1,6 +1,6 @@
 # Queues
 
-[Back to Welcome page](/welcome.md)
+[Back to Welcome page](https://github.com/moosius1/CS-212-BYUI)
 
 Lines. We all have been in them before. When they run properly, it makes everyone happy there is order and regulation in the world, but when they don't, people get frustrated, tired and impatient. 
 
@@ -110,4 +110,4 @@ if len(exampleQueue) == x:
 [Queue Image](https://www.section.io/engineering-education/queue-data-structure-python/)
 
 
-## [Back to Welcome page](/welcome.md)
+## [Back to Welcome page](https://github.com/moosius1/CS-212-BYUI)
